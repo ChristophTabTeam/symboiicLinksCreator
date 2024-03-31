@@ -19,7 +19,7 @@ Dieses Python-Skript ermöglicht es Benutzern, symbolische Links zwischen Ordner
 
 1. Klonen Sie das Repository auf Ihren lokalen Computer.
 2. Öffnen Sie die Konsole und navigieren Sie zum Verzeichnis des Repositories.
-3. Führen Sie das Skript aus, indem Sie `python manager.py` eingeben.
+3. Führen Sie das Skript aus, indem Sie `python manager.py` eingeben oder starten Sie die `run.bat` Datei.
 4. Folgen Sie den Anweisungen in der Konsole, um Quell- und Zielordner auszuwählen und Aktionen durchzuführen.
 
 ## Lizenz
